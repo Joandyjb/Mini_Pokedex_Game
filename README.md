@@ -1,3 +1,7 @@
+# Project Description
+Two player game that retsarts with reload randomly assigns each deck with the Pokemons. The hand with the pokemon containing the most total experienced wins
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
