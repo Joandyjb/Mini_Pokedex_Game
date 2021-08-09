@@ -1,5 +1,5 @@
 # Project Description
-Two player game that retsarts with reload randomly assigns each deck with the Pokemons. The hand with the pokemon containing the most total experienced wins
+Two player game that randomly assigns each deck with the Pokemons. The hand with the pokemon containing the most total experienced wins the ganme.
 
 
 # Getting Started with Create React App
